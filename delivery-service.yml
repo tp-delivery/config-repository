@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: shop-service
+    name: delivery-service
 
 eureka:
   instance:
@@ -20,4 +20,4 @@ management:
 
 logging:
   level:
-    com.example.shopservice: DEBUG
+    com.example.deliveryservice: DEBUG
